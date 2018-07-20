@@ -40,3 +40,8 @@
 /Firmware/busPirate.X/nbproject/Package-BusPirate_v4.bash
 /Firmware/busPirate.X/nbproject/Package-default.bash
 /Firmware/busPirate.X/nbproject/private/
+# Ignore all build artifacts from using the Microchip tools / IDE
+/Firmware/busPirate.X/*
+# Explicity make certain the below two files are contained within the project repo
+!/Firmware/busPirate.X/nbproject/*
+!/Firmware/busPirate.X/Makefile
