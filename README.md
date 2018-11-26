@@ -51,7 +51,7 @@ The Bus Pirate is used through a simple terminal interface, but these applicatio
 # Purchasing
 
 * Bus Pirate v4.0 - *Newer, more space for bigger firmwares*
-  * Worldwide: <http://www.seeedstudio.com/depot/bus-pirate-v4-for-developers-p-740.html>
+  * Worldwide: <https://www.seeedstudio.com/Bus-Pirate-v4-p-740.html>
 
 * Bus Pirate v3.6 - *Proven, more well tested*
   * Worldwide: <http://www.seeedstudio.com/depot/bus-pirate-v3-assembled-p-609.html?cPath=61_68>
